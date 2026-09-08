@@ -50,15 +50,15 @@ Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, p
 
 <!-- ROW 1: GitHub Stats, Streak, and Compact LeetCode -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragsaraf001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF99" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsaraf001&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragsaraf001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF99&cache_seconds=86400" width="32%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsaraf001&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99" width="32%" alt="GitHub Streak" />
   <img src="https://leetcard.jacoblin.cool/anuragsaraf_28?theme=tokyonight&font=Fira%20Code&hide_border=true&bg_color=0D1117" width="32%" alt="LeetCode Stats" />
 </div>
 
 <!-- ROW 2: Contribution Line Graph and Top Languages -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsaraf001&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="60%" alt="Contribution Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsaraf001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="35%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsaraf001&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&cache_seconds=86400" width="60%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsaraf001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="35%" alt="Top Languages" />
 </div>
 
 <br/>
@@ -66,9 +66,8 @@ Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, p
 ### 🏆 Achievement Trophies
 
 <div align="center">
-  <!-- Dynamically generates hexagonal badges based on your GitHub activity -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anuragsaraf001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Anurag's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anuragsaraf001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&cache_seconds=86400" alt="Anurag's GitHub Trophies" />
   </a>
 </div>
 
@@ -86,7 +85,9 @@ Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, p
 
 <br/>
 
-<!-- FOOTER WITH WAVING GRADIENT -->
+<!-- CREATIVE FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Keep+coding,+keep+creating!;%E2%9C%A8+Stay+Awesome+%E2%9C%A8" alt="Footer Typing SVG" />
 </div>
