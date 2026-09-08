@@ -13,10 +13,10 @@
 <!-- REACH ME OUT / SOCIALS -->
 <div align="center">
   <h3>🌐 Reach me out via:</h3>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discordapp.com/users/anurag_sarraf"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.linkedin.com/in/anurag-saraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-  <a href="https://twitter.com/YOUR_X_HERE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:anuragsaraf28032005@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://codolio.com/profile/anuragsaraf_001"><img src="https://img.shields.io/badge/Codolio-101010?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
   <br><br>
   <!-- Profile Views Counter -->
@@ -32,7 +32,7 @@
 
 ### 👨‍💻 A Little About Me
 
-Welcome to my digital workspace! I'm a developer based in **Ballia, India**, passionate about leveraging code to build intelligent, efficient, and eco-conscious solutions.
+Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, passionate about leveraging code to build intelligent, efficient, and eco-conscious solutions.
 
 - 🤖 **Current Focus:** Designing unique and highly practical **Artificial Intelligence & Machine Learning** projects.
 - 🌱 **Core Interest:** The intersection of tech and **environmental sustainability**—exploring how smart engineering can help solve the challenges of fast consumerism.
@@ -44,15 +44,15 @@ Welcome to my digital workspace! I'm a developer based in **Ballia, India**, pas
 ### 📊 Anurag's Developer Dashboard
 
 <div align="center">
-  <!-- GitHub Activity & Streak (Mimicking the unified dashboard look) -->
+  <!-- GitHub Activity & Streak -->
   <img src="https://github-readme-stats.vercel.app/api?username=anuragsaraf001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF99" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsaraf001&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99" width="48%" />
 </div>
 
 <div align="center">
-  <!-- LeetCode Specific Stats Card -->
+  <!-- LeetCode Specific Stats Card (Defaults to anuragsaraf001) -->
   <a href="https://codolio.com/profile/anuragsaraf_001">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true&bg_color=0D1117" width="48%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/anuragsaraf001?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true&bg_color=0D1117" width="48%" alt="LeetCode Stats" />
   </a>
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsaraf001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
@@ -62,8 +62,8 @@ Welcome to my digital workspace! I'm a developer based in **Ballia, India**, pas
 
 ### 🏅 My Badges & Achievements
 
+<!-- To display your custom GSSoC and Python badges, you must upload the images to this repository and replace these placeholder URLs with your uploaded image URLs -->
 <div align="center">
-  <!-- Replace the 'src' URLs with the direct image links of your actual badges -->
   <img src="https://images.credly.com/size/110x110/images/68469d45-d85c-4861-ab87-0b1981bb6eb3/image.png" alt="Google Cloud Badge" width="90" style="margin: 5px;" />
   <img src="https://images.credly.com/size/110x110/images/2704db35-9d33-40a1-a64e-cc5f939e44ff/image.png" alt="Postman Badge" width="90" style="margin: 5px;" />
   <img src="https://images.credly.com/size/110x110/images/9446d03d-8dfc-42bd-95eb-395725d70b74/image.png" alt="Oracle Badge" width="90" style="margin: 5px;" />
@@ -74,6 +74,7 @@ Welcome to my digital workspace! I'm a developer based in **Ballia, India**, pas
 
 ### 🐍 GitHub Contribution Grid
 
+<!-- NOTE: This image will remain broken until you create the snake.yml GitHub Action file to generate it -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragsaraf001/anuragsaraf001/output/github-contribution-grid-snake-dark.svg">
