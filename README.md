@@ -48,6 +48,12 @@ Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, p
 
 ### 🧩 Anurag's Problem Solving Dashboard
 
+<div align="center">
+  <a href="https://leetcode.com/u/anuragsaraf_28/">
+    <img src="./assets/problem-solving-dashboard.svg" alt="Visual problem-solving dashboard: 412 verified platform solves. LeetCode 203, Codeforces 99, GeeksforGeeks 94, and CodeChef 16." width="100%" />
+  </a>
+</div>
+
 <!--
   Static, GitHub-native dashboard: no third-party statistics-card service is
   required to render the important information. Counts below were verified from
