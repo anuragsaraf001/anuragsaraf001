@@ -22,9 +22,9 @@
   <a href="https://www.geeksforgeeks.org/user/anuragsarat9e3"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="https://www.naukri.com/code360/profile/anuragsaraf"><img src="https://img.shields.io/badge/Coding_Ninjas-F36633?style=for-the-badge&logoColor=white" alt="Coding Ninjas" /></a>
   <br><br>
-  <!-- Codolio Total Solved Badge (Update the '500' manually as you solve more) -->
+  <!-- Codolio profile badge: its aggregate is intentionally shown in the dashboard only when verified. -->
   <a href="https://codolio.com/profile/anuragsaraf_001">
-    <img src="https://img.shields.io/badge/Codolio_Total_Solved-500%2B-00FF99?style=for-the-badge&logo=codeforces&logoColor=black&color=0D1117&labelColor=0D1117" alt="Codolio Total Stats" />
+    <img src="https://img.shields.io/badge/Codolio-Profile-00FF99?style=for-the-badge&logo=codeforces&logoColor=black&color=0D1117&labelColor=0D1117" alt="Codolio profile" />
   </a>
 </div>
 
@@ -46,29 +46,59 @@ Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, p
 
 <br/>
 
-### 📊 Anurag's Developer Dashboard
+### 🧩 Anurag's Problem Solving Dashboard
 
-<!-- ROW 1: GitHub Stats, Streak, and Compact LeetCode -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragsaraf001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF99&cache_seconds=86400" width="32%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsaraf001&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99" width="32%" alt="GitHub Streak" />
-  <img src="https://leetcard.jacoblin.cool/anuragsaraf_28?theme=tokyonight&font=Fira%20Code&hide_border=true&bg_color=0D1117" width="32%" alt="LeetCode Stats" />
-</div>
+<!--
+  Static, GitHub-native dashboard: no third-party statistics-card service is
+  required to render the important information. Counts below were verified from
+  the linked public profiles on 9 September 2026. Update this snapshot when a
+  platform count changes.
+-->
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>⚡ 412 verified platform solves</strong><br>
+      <sub>Verified public-profile total · counts are summed by platform, not de-duplicated across platforms</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🟨 LeetCode Spotlight</strong><br><br>
+      <strong>203 solved</strong><br>
+      🟢 Easy: <strong>103</strong> &nbsp; 🟡 Medium: <strong>89</strong> &nbsp; 🔴 Hard: <strong>11</strong><br><br>
+      <a href="https://leetcode.com/u/anuragsaraf_28/">View LeetCode profile →</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🏁 Competitive Programming</strong><br><br>
+      <a href="https://codeforces.com/profile/anurag_saraf_28"><strong>Codeforces</strong></a> · <strong>99</strong> unique accepted<br>
+      <a href="https://www.codechef.com/users/anuragsaraf_28"><strong>CodeChef</strong></a> · <strong>16</strong> solved<br>
+      <a href="https://www.geeksforgeeks.org/user/anuragsarat9e3"><strong>GeeksforGeeks</strong></a> · <strong>94</strong> solved
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧭 Learning Platforms</strong><br><br>
+      <a href="https://www.naukri.com/code360/profile/anuragsaraf"><strong>Code360 / Coding Ninjas</strong></a><br>
+      <sub>Public solved count is not exposed — profile linked.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🔗 Unified Profile</strong><br><br>
+      <a href="https://codolio.com/profile/anuragsaraf_001"><strong>Codolio</strong></a><br>
+      <sub>Aggregation count intentionally omitted until it can be verified publicly.</sub>
+    </td>
+  </tr>
+</table>
 
-<!-- ROW 2: Contribution Line Graph and Top Languages -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsaraf001&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&cache_seconds=86400" width="60%" alt="Contribution Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsaraf001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="35%" alt="Top Languages" />
-</div>
+<p align="center"><sub>Snapshot verified 9 September 2026 · last manual dashboard update required when profile totals change</sub></p>
 
 <br/>
 
-### 🏆 Achievement Trophies
+### 🏆 GitHub Highlights
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anuragsaraf001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&cache_seconds=86400" alt="Anurag's GitHub Trophies" />
-  </a>
+  <strong>3 public repositories · 2 followers</strong><br>
+  <sub>Public-profile snapshot verified 9 September 2026</sub><br><br>
+  <a href="https://github.com/anuragsaraf001?tab=repositories">Explore my repositories →</a>
 </div>
 
 <br/>
