@@ -54,49 +54,6 @@ Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, p
   </a>
 </div>
 
-<!--
-  Static, GitHub-native dashboard: no third-party statistics-card service is
-  required to render the important information. Counts below were verified from
-  the linked public profiles on 9 September 2026. Update this snapshot when a
-  platform count changes.
--->
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <strong>⚡ 412 verified platform solves</strong><br>
-      <sub>Verified public-profile total · counts are summed by platform, not de-duplicated across platforms</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🟨 LeetCode Spotlight</strong><br><br>
-      <strong>203 solved</strong><br>
-      🟢 Easy: <strong>103</strong> &nbsp; 🟡 Medium: <strong>89</strong> &nbsp; 🔴 Hard: <strong>11</strong><br><br>
-      <a href="https://leetcode.com/u/anuragsaraf_28/">View LeetCode profile →</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🏁 Competitive Programming</strong><br><br>
-      <a href="https://codeforces.com/profile/anurag_saraf_28"><strong>Codeforces</strong></a> · <strong>99</strong> unique accepted<br>
-      <a href="https://www.codechef.com/users/anuragsaraf_28"><strong>CodeChef</strong></a> · <strong>16</strong> solved<br>
-      <a href="https://www.geeksforgeeks.org/user/anuragsarat9e3"><strong>GeeksforGeeks</strong></a> · <strong>94</strong> solved
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🧭 Learning Platforms</strong><br><br>
-      <a href="https://www.naukri.com/code360/profile/anuragsaraf"><strong>Code360 / Coding Ninjas</strong></a><br>
-      <sub>Public solved count is not exposed — profile linked.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🔗 Unified Profile</strong><br><br>
-      <a href="https://codolio.com/profile/anuragsaraf_001"><strong>Codolio</strong></a><br>
-      <sub>Aggregation count intentionally omitted until it can be verified publicly.</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>Snapshot verified 9 September 2026 · last manual dashboard update required when profile totals change</sub></p>
-
 <br/>
 
 ### 🏆 GitHub Highlights
