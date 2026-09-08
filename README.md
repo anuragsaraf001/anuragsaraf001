@@ -10,23 +10,22 @@
   </a>
 </h3>
 
-<!-- REACH ME OUT / SOCIALS -->
+<!-- CONNECT & COMPETE SOCIALS -->
 <div align="center">
-  <h3>🌐 Connect & Compete:</h3>
   <a href="https://discordapp.com/users/anurag_sarraf"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.linkedin.com/in/anurag-saraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anuragsaraf28032005@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
   <br><br>
   <!-- Competitive Programming Profiles -->
-  <a href="https://codolio.com/profile/anuragsaraf_001"><img src="https://img.shields.io/badge/Codolio-101010?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
-  <a href="https://leetcode.com/u/anuragsaraf_28"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/anurag_saraf_28"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://www.codechef.com/users/anuragsaraf_28"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://www.geeksforgeeks.org/user/anuragsarat9e3"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="https://www.naukri.com/code360/profile/anuragsaraf"><img src="https://img.shields.io/badge/Coding_Ninjas-F36633?style=for-the-badge&logoColor=white" alt="Coding Ninjas" /></a>
   <br><br>
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=anuragsaraf001&label=PROFILE+VIEWS&color=e25822&style=flat-square" alt="Profile Views" />
+  <!-- Codolio Total Solved Badge (Update the '500' manually as you solve more) -->
+  <a href="https://codolio.com/profile/anuragsaraf_001">
+    <img src="https://img.shields.io/badge/Codolio_Total_Solved-500%2B-00FF99?style=for-the-badge&logo=codeforces&logoColor=black&color=0D1117&labelColor=0D1117" alt="Codolio Total Stats" />
+  </a>
 </div>
 
 <br/>
@@ -40,47 +39,43 @@
 
 Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, passionate about leveraging code to build intelligent, efficient, and eco-conscious solutions.
 
-- 🤖 **Current Focus:** Designing unique and highly practical **Artificial Intelligence & Machine Learning** projects.
-- 🌱 **Core Interest:** The intersection of tech and **environmental sustainability**—exploring how smart engineering can help solve the challenges of fast consumerism.
-- ☁️ **Upskilling:** Currently conquering challenges and expanding my cloud architecture knowledge in the **Google Cloud Arcade**.
-- ⚙️ **Under the Hood:** I love diving deep into system fundamentals, whether it's optimizing C++ logic, architecting robust Java interfaces, or exploring the core mechanics of microprocessors like the Intel 8086.
+- 🤖 **Current Focus:** Designing unique and practical **Artificial Intelligence & Machine Learning** projects.
+- 🌱 **Core Interest:** The intersection of tech and **environmental sustainability**.
+- ☁️ **Upskilling:** Expanding cloud architecture knowledge in the **Google Cloud Arcade**.
+- ⚙️ **Under the Hood:** Optimizing C++ logic, architecting Java interfaces, and studying microprocessors.
 
 <br/>
 
 ### 📊 Anurag's Developer Dashboard
 
+<!-- ROW 1: GitHub Stats, Streak, and Compact LeetCode -->
 <div align="center">
-  <!-- GitHub Activity & Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragsaraf001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF99" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsaraf001&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragsaraf001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF99" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsaraf001&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99" width="32%" />
+  <img src="https://leetcard.jacoblin.cool/anuragsaraf_28?theme=tokyonight&font=Fira%20Code&hide_border=true&bg_color=0D1117" width="32%" alt="LeetCode Stats" />
 </div>
 
+<!-- ROW 2: Contribution Line Graph and Top Languages -->
 <div align="center">
-  <!-- LeetCode Specific Stats Card -->
-  <a href="https://codolio.com/profile/anuragsaraf_001">
-    <img src="https://leetcard.jacoblin.cool/anuragsaraf_28?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true&bg_color=0D1117" width="48%" alt="LeetCode Stats" />
-  </a>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsaraf001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsaraf001&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="60%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsaraf001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="35%" alt="Top Languages" />
 </div>
 
 <br/>
 
-### 🏅 My Badges & Achievements
+### 🏆 Achievement Trophies
 
-<!-- To display your custom GSSoC and Python badges, you must upload the images to this repository and replace these placeholder URLs with your uploaded image URLs -->
 <div align="center">
-  <img src="https://images.credly.com/size/110x110/images/68469d45-d85c-4861-ab87-0b1981bb6eb3/image.png" alt="Google Cloud Badge" width="90" style="margin: 5px;" />
-  <img src="https://images.credly.com/size/110x110/images/2704db35-9d33-40a1-a64e-cc5f939e44ff/image.png" alt="Postman Badge" width="90" style="margin: 5px;" />
-  <img src="https://images.credly.com/size/110x110/images/9446d03d-8dfc-42bd-95eb-395725d70b74/image.png" alt="Oracle Badge" width="90" style="margin: 5px;" />
-  <img src="https://images.credly.com/size/110x110/images/c2abcc8e-0453-4ff3-8321-dfb5ef35b719/image.png" alt="Coursera Badge" width="90" style="margin: 5px;" />
+  <!-- Dynamically generates hexagonal badges based on your GitHub activity -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anuragsaraf001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Anurag's GitHub Trophies" />
+  </a>
 </div>
 
 <br/>
 
 ### 🐍 GitHub Contribution Grid
 
-<!-- NOTE: This image will remain broken until you create the snake.yml GitHub Action file to generate it -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragsaraf001/anuragsaraf001/output/github-contribution-grid-snake-dark.svg">
