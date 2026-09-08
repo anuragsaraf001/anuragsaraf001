@@ -12,12 +12,18 @@
 
 <!-- REACH ME OUT / SOCIALS -->
 <div align="center">
-  <h3>🌐 Reach me out via:</h3>
+  <h3>🌐 Connect & Compete:</h3>
   <a href="https://discordapp.com/users/anurag_sarraf"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.linkedin.com/in/anurag-saraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anuragsaraf28032005@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <br><br>
+  <!-- Competitive Programming Profiles -->
   <a href="https://codolio.com/profile/anuragsaraf_001"><img src="https://img.shields.io/badge/Codolio-101010?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
+  <a href="https://leetcode.com/u/anuragsaraf_28"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/anurag_saraf_28"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/anuragsaraf_28"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.geeksforgeeks.org/user/anuragsarat9e3"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.naukri.com/code360/profile/anuragsaraf"><img src="https://img.shields.io/badge/Coding_Ninjas-F36633?style=for-the-badge&logoColor=white" alt="Coding Ninjas" /></a>
   <br><br>
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=anuragsaraf001&label=PROFILE+VIEWS&color=e25822&style=flat-square" alt="Profile Views" />
@@ -50,9 +56,9 @@ Welcome to my digital workspace! I'm a developer based in **Varanasi, India**, p
 </div>
 
 <div align="center">
-  <!-- LeetCode Specific Stats Card (Defaults to anuragsaraf001) -->
+  <!-- LeetCode Specific Stats Card -->
   <a href="https://codolio.com/profile/anuragsaraf_001">
-    <img src="https://leetcard.jacoblin.cool/anuragsaraf001?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true&bg_color=0D1117" width="48%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/anuragsaraf_28?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true&bg_color=0D1117" width="48%" alt="LeetCode Stats" />
   </a>
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsaraf001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
